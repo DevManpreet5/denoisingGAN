@@ -22,7 +22,7 @@ We use the ISIC Skin Disease Image Dataset for training and testing our model. T
 ## Preprocessing
 
 The preprocessing steps involve:
-1. **Adding Gaussian Noise:** To simulate noisy medical images, Gaussian noise is added to the original images.
+1. **Adding Gaussian Noise , Blur , Contrast:** To simulate noisy medical images, Gaussian noise , Blur and contrast is added to the original images.
 2. **Data Transformation:** Images are resized and normalized to meet the input requirements of the model.
 
 ## Model Architecture
